@@ -34,16 +34,15 @@ This project is designed for learning and practicing **real-world backend archit
 ## 📂 Project Structure
 
 com.example.ems
-├── controller
-├── service
-│ └── impl
-├── repository
-├── entity
-├── dto
-│ ├── request
-│ └── response
-└── mapper
-
+  -controller
+  -service
+  -repository
+  -entity
+  -dto
+    -request
+    -response
+  -mapper
+  
 ---
 
 ## 🗄️ Database Design
