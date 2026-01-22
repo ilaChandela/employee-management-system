@@ -1,4 +1,4 @@
-package com.example.ems.service.impl;
+package com.example.ems.service;
 
 import com.example.ems.dto.JobRequestDto;
 import com.example.ems.dto.JobResponseDto;
